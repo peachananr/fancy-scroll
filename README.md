@@ -2,7 +2,7 @@
 Add an Overflow Scroll Effect like on iOS/Android but for your website
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![Notify Better](http://www.thepetedesign.com/images/fancy_scroll_image.png "Fancy Scroll")](http://www.thepetedesign.com/demos/fancy_scroll_demo.html)
+[![Notify Better](http://www.thepetedesign.com/images/fancy_scroll_image2.png "Fancy Scroll")](http://www.thepetedesign.com/demos/fancy_scroll_demo.html)
 
 ## Demo
 [View demo](http://www.thepetedesign.com/demos/fancy_scroll_demo.html)
